@@ -56,7 +56,7 @@ export default function Hero() {
 
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6 px-5 py-24 text-center sm:px-8">
         <span className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-white/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.2em] text-amber-100 backdrop-blur-sm sm:text-sm">
-          👑 17 anos de uma princesa de verdade
+          👑 17 anos de uma Princesa
         </span>
 
         <h1 className="font-display text-5xl leading-tight text-amber-50 drop-shadow-[0_4px_18px_rgba(255,215,0,0.35)] sm:text-6xl md:text-7xl">
@@ -64,7 +64,7 @@ export default function Hero() {
         </h1>
 
         <p className="max-w-xl text-base font-light text-blue-50/90 sm:text-lg">
-          Guardei cada palavra sua desde o dia 1.
+          Guardei cada palavra sua desde o primeiro dia.
         </p>
 
         <button type="button" className="btn-royal mt-4" onClick={handleEnter}>

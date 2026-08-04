@@ -63,7 +63,6 @@ export const slangItems: SlangItem[] = [
   { word: 'Mwah' },
   { word: 'Baison' },
   { word: 'Kisses' },
-  { word: 'Foguinho', date: '24/07/2025 19:08' },
   { word: 'Bro' },
   { word: 'Monyca?' },
   { word: 'Atao' },
@@ -73,7 +72,6 @@ export const slangItems: SlangItem[] = [
   { word: 'Bue' },
   { word: 'Socorro' },
   { word: 'Gira' },
-  { word: 'Gatinho' },
   { word: 'Rizz' },
   { word: 'Slk' },
   { word: 'Fogo' },
@@ -163,7 +161,7 @@ export const lanternCards: LanternCard[] = [
     icon: 'bottle',
     title: 'Carta na Garrafa',
     modalText:
-      'Não somos só duas pessoas numa conversa de WhatsApp. Somos madrugadas em claro, risadas silenciosas, planos de casamento e a certeza de que o amor existe mesmo a 7.000 km de distância.',
+      'Não somos só duas pessoas numa conversa de WhatsApp. Somos madrugadas em claro, risadas silenciosas, planos de casamento e a certeza de que o amor existe mesmo a 8.000 km de distância.',
     ref: '16/03/2025 23:22',
   },
   {
